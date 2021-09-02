@@ -48,7 +48,7 @@ const Harry = {
   <a href="https://www.hackerearth.com/pt-br/@fveronezipeters">
     <img align="left" alt="HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerearth.svg" />
   </a>
-
+---
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 ```
