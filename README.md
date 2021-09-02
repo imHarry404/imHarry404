@@ -21,6 +21,9 @@ const Harry = {
         editor:["Jupyter","Vs Code"]
      },
 };
+
+
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 ```
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
@@ -29,4 +32,3 @@ const Harry = {
 ⭐️ From [@imHarry404](https://github.com/imHarry404)
 
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
