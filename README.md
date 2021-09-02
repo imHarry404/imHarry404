@@ -53,7 +53,7 @@ const Harry = {
 
 ```
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
-
+```
 
 
 
