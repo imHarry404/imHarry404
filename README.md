@@ -26,14 +26,14 @@ const Harry = {
 
 ```
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
-<h3> 🤝🏻 Connect with Me </h3>
 
+<h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://twitter.com/imHarry404" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/imHarry404" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:hariom14may11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 ---
 
 
