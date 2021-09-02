@@ -1,22 +1,39 @@
-### Hi there 👋
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+Hi there, thanks for stopping by, this is **Hariom Kumar**.
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
+```javascript
+const charles = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["AI","ML, "Web-Dev", "Tech"],
+    technologies: {
+        frontEnd: {
+            python:["Pandas","Numpy","Matplotlib","OpenCv","TenserFlow","Keras"],
+            js: ["Node","Express","React", "Angular"],
+            css: ["CSS3","SCSS", "Tailwind"]
+            
+        },
+        backEnd: ["Python", "Node"],
+        databases: ["MONGODB", "MYSQL"],
+        framework:["Django"], 
+        editor:["Jupyter","Vs Code"]
+     },
+};
+```
+
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/imHarry404">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
 </a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/imHarry404">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
 </a>
-<a href="https://github.com/AjayKhalsa">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/AjayKhalsa">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<br />
+
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+---
+
+⭐️ From [@imHarry404](https://github.com/imHarry404)
