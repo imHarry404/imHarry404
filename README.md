@@ -19,9 +19,11 @@ const Harry = {
         framework:["Django"], 
         databases: ["MONGODB", "MYSQL"],
         editor:["Jupyter","Vs Code"]
-     },
+     }
 };
 ```
+**Is HtMl Is A pRoGrAmMiNg LaNgUaGe**.
+![](https://miro.medium.com/max/700/0*VPaYkpEtlTCjxCZQ)
 ![](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif)
 
 ## 🔗 Links
