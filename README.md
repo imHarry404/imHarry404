@@ -10,15 +10,14 @@ const Harry = {
     pronouns: "He" | "Him",
     askMeAbout: ["Python","AI","ML, "Web-Dev", "Tech"],
     technologies: {
+        languages:["Python","JavaScript","Java","C++","C"],
         frontEnd: {
-            python:["Pandas","Numpy","Matplotlib","OpenCv","TenserFlow","Keras"],
-            js: ["Node","Express","React", "Angular"],
-            css: ["CSS3","SCSS", "Tailwind"]
-            
-        },
+                    js: ["Node","Express","React", "Angular"],
+                    css: ["CSS3","SCSS", "Tailwind"]          
+                    },
         backEnd: ["Python", "Node"],
-        databases: ["MONGODB", "MYSQL"],
         framework:["Django"], 
+        databases: ["MONGODB", "MYSQL"],
         editor:["Jupyter","Vs Code"]
      },
 };
