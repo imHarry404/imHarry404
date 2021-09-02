@@ -24,9 +24,9 @@ const Harry = {
 ```
 **Is HtMl Is A pRoGrAmMiNg LaNgUaGe**.
 <p>
-![](https://miro.medium.com/max/700/0*VPaYkpEtlTCjxCZQ)
-![](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif)
-    </p>
+(https://miro.medium.com/max/700/0*VPaYkpEtlTCjxCZQ)
+(https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif)
+</p>
 
 ## 🔗 Links
 [![hackerrank](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/hariom14may11)
