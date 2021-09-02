@@ -35,6 +35,16 @@ const Harry = {
 </p>
 
 ```
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
+<br>
 ```
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
