@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://github.com/imHarry404/my_django/blob/master/my%20django%20study/banner.png)
 
 Hi there, thanks for stopping by, this is **Hariom Kumar**.
 
@@ -22,16 +22,6 @@ const charles = {
      },
 };
 ```
-
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
-
-<a href="https://github.com/imHarry404">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
-</a>
-<a href="https://github.com/imHarry404">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
-</a>
-
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
 ---
