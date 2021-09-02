@@ -26,9 +26,10 @@ const Harry = {
 ![](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif)
 
 ## 🔗 Links
-[![hackerrank](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/hariom14may11)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imharry404/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imHarry404)
+[![hackerrank](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/hariom14may11)
+
+
 
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
