@@ -1,5 +1,5 @@
 
-![banner.png](https://github.com/imHarry404/my_django/blob/master/my%20django%20study/banner.png)
+![banner.png](https://github.com/imHarry404/harry_python_projects/blob/master/projects/banner.png)
 
 Hi there, thanks for stopping by, this is **Hariom Kumar**.
 
