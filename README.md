@@ -23,7 +23,7 @@ const Harry = {
 };
 
 ---
-```
+
 <p>
   <a href="https://br.linkedin.com/in/felipevpeters">
     <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
