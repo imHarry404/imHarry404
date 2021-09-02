@@ -5,7 +5,7 @@ Hi there, thanks for stopping by, this is **Hariom Kumar**.
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
-const charles = {
+const Harry = {
     pronouns: "He" | "Him",
     askMeAbout: ["AI","ML, "Web-Dev", "Tech"],
     technologies: {
