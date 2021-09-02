@@ -33,9 +33,10 @@ const Harry = {
 &nbsp; <a href="https://www.linkedin.com/in/imHarry404" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:hariom14may11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+```
 ```
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
----
 
 
 ⭐️ From [@imHarry404](https://github.com/imHarry404)
