@@ -22,7 +22,7 @@ const Harry = {
      },
 };
 ```
----
+
 ```
 <p>
   <a href="https://br.linkedin.com/in/felipevpeters">
@@ -51,7 +51,7 @@ const Harry = {
   </a>
 </p>
 ```
----
+
 
 ```
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
