@@ -8,9 +8,10 @@ Hi there, thanks for stopping by, this is **Hariom Kumar**.
 ```javascript
 const Harry = {
     pronouns: "He" | "Him",
-    askMeAbout: ["Devops","Linux","Git/Github, "Docker", "K8S"],
+    askMeAbout: ["AWS","Devops","Linux","Git/Github, "Docker", "K8S","CI-CD"],
     technologies: {
         languages:["Python","YAML","C++","C","EcmaScript"],
+        Devops_Tools:["Docker","CI-CD","Jenkins","K8S","GIT/GitHub","HELM","Datree","Ansible","chef","minikube"],
         databases: ["MONGODB", "MYSQL"],
         editor:["Jupyter","Vs Code"]
      }
