@@ -8,15 +8,9 @@ Hi there, thanks for stopping by, this is **Hariom Kumar**.
 ```javascript
 const Harry = {
     pronouns: "He" | "Him",
-    askMeAbout: ["Python","AI","ML, "Web-Dev", "Tech"],
+    askMeAbout: ["Devops","Linux","Git/Github, "Docker", "K8S"],
     technologies: {
-        languages:["Python","JavaScript","Java","C++","C"],
-        frontEnd: {
-                    js: ["Node","Express","React", "Angular"],
-                    css: ["CSS3","SCSS", "Tailwind"]          
-                    },
-        backEnd: ["Python", "Node"],
-        framework:["Django"], 
+        languages:["Python","YAML","C++","C","EcmaScript"],
         databases: ["MONGODB", "MYSQL"],
         editor:["Jupyter","Vs Code"]
      }
