@@ -5,7 +5,6 @@ Hi there, thanks for stopping by, this is **Hariom Kumar**.
 
 ## Resume Link
 https://drive.google.com/file/d/1qHp929PHbOtzdjnaH4NRZLdO5XefUfFd/view?usp=sharing
-
 ![](https://raw.githubusercontent.com/shubhadip/shubhadip/main/dev.gif)
 
 ```javascript
