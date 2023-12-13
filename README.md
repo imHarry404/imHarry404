@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1PUk4q8mrtn-J4O2n_GhQ98q8pBvjjxQ9/view?usp=drive
 ```javascript
 const Harry = {
     pronouns: "He" | "Him",
-    askMeAbout: ["AWS","Devops","Linux","Git/Github, "Docker", "K8S","CI-CD"],
+    askMeAbout: ["AWS","Devops","Linux","Git/Github", "Docker", "K8S","CI-CD"],
     technologies: {
         languages:["Python","EcmaScript"],
         Devops_Tools:["Linux", "GCP","AWS", "Docker","CI-CD","Jenkins","K8S","GIT/GitHub","HELM","Terraform","Ansible"],
