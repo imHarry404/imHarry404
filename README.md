@@ -12,20 +12,17 @@ const Harry = {
     pronouns: "He" | "Him",
     askMeAbout: ["AWS","Devops","Linux","Git/Github, "Docker", "K8S","CI-CD"],
     technologies: {
-        languages:["Python","YAML","C++","C","EcmaScript"],
-        Devops_Tools:["Docker","CI-CD","Jenkins","K8S","GIT/GitHub","HELM","Datree","Ansible","chef","minikube"],
-        databases: ["MONGODB", "MYSQL"],
-        editor:["Jupyter","Vs Code"]
+        languages:["Python","EcmaScript"],
+        Devops_Tools:["Linux", "GCP","AWS", "Docker","CI-CD","Jenkins","K8S","GIT/GitHub","HELM","Terraform","Ansible"],
+        databases: ["MONGODB", "MYSQL"]
      }
 };
 ```
 
-![](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif)
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imharry404/)
-[![hackerrank](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/hariom14may11)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imharry404.github.io/apnawebsite.github.io/)
+
++91 8804809881
 
 
 
